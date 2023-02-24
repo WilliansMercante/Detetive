@@ -1,0 +1,12 @@
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\bin\Debug\net7.0\ProjetoDetetive.ViewModel.deps.json
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\bin\Debug\net7.0\ProjetoDetetive.ViewModel.dll
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\bin\Debug\net7.0\ProjetoDetetive.ViewModel.pdb
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\obj\Debug\net7.0\ProjetoDetetive.ViewModel.csproj.AssemblyReference.cache
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\obj\Debug\net7.0\ProjetoDetetive.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\obj\Debug\net7.0\ProjetoDetetive.ViewModel.AssemblyInfoInputs.cache
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\obj\Debug\net7.0\ProjetoDetetive.ViewModel.AssemblyInfo.cs
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\obj\Debug\net7.0\ProjetoDetetive.ViewModel.csproj.CoreCompileInputs.cache
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\obj\Debug\net7.0\ProjetoDetetive.ViewModel.dll
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\obj\Debug\net7.0\refint\ProjetoDetetive.ViewModel.dll
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\obj\Debug\net7.0\ProjetoDetetive.ViewModel.pdb
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.ViewModel\obj\Debug\net7.0\ref\ProjetoDetetive.ViewModel.dll

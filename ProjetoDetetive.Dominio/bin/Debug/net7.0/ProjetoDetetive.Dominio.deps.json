@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ProjetoDetetive.Dominio/1.0.0": {
+        "runtime": {
+          "ProjetoDetetive.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoDetetive.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

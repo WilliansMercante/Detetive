@@ -1,0 +1,148 @@
+﻿@model ProjetoDetetive.Ui.Web.Areas.Detetive.ViewModels.IndexViewModel
+
+@{
+    Layout = "~/Views/Shared/_Template.cshtml";
+}
+
+<!-- Codes by HTML.am -->
+<!-- CSS Code -->
+<style type="text/css" scoped>
+    .GeneratedText {
+        /*font-family: Arial, sans-serif;*/
+        font-size: 1.5em;
+        /*letter-spacing: 0.2em;*/
+        line-height: 1.3em;
+        /*color: #330099;*/
+        /*background-color: #CCFFFF;*/
+        padding: 1.5em;
+    }
+</style>
+
+<!-- HTML Code -->
+
+<div class="GeneratedText">
+    O empresário Sean Bean foi assassinado e o corpo dele foi deixado na frente da delegacia de polícia. O Inspetor Jacques
+    Clouseau foi escolhido para investigar este caso. Após uma série de investigações, ele organizou uma lista com
+    prováveis assassinos, os locais do crime e quais armas poderiam ter sido utilizadas.
+    <br />
+    <br />
+    Suspeitos:
+    1. Esqueleto
+    2. Khan
+    3. Darth vader
+    4. Sideshow Bob
+    5. Coringa
+    6. Duende Verde
+    <br />
+    <br />
+    Locais:
+    1. Etérnia
+    2. Vulcano
+    3. Tatooine
+    4. Springfield
+    5. Gotham
+    6. Nova York
+    7. Sibéria
+    8. Machu Picchu
+    9. Show do Katinguele
+    10. São Paulo
+    <br />
+    <br />
+    Armas:
+    1. Cajado Devastador
+    2. Phaser
+    3. Peixeira
+    4. Trezoitão
+    5. Sabre de Luz
+    6. Bomba
+    <br />
+    <br />
+    Uma testemunha foi encontrada, mas ela só consegue responder se Clouseau fornecer uma teoria. Para cada teoria
+    ele "chuta" um assassino, um local e uma arma.
+</div>
+
+<div id="divSelecao" class="row">
+
+    <div class="col-xs-12 col-sm-4">
+        <div class="widget-box">
+            <div class="widget-header">
+                <h4 class="widget-title">Assassino</h4>
+
+                <span class="widget-toolbar">
+                    <a href="#" data-action="collapse">
+                        <i class="ace-icon fa fa-chevron-up"></i>
+                    </a>
+                </span>
+            </div>
+            <div class="widget-body">
+                <div class="widget-main">
+                    <div>
+                        @Html.DropDownListFor(p => p.Suspeito.Id, Model.Suspeitos," -=- Selecione -=- ", new { @class = "form-control",required = "required" })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xs-12 col-sm-4">
+        <div class="widget-box">
+            <div class="widget-header">
+                <h4 class="widget-title">Local</h4>
+
+                <span class="widget-toolbar">
+                    <a href="#" data-action="collapse">
+                        <i class="ace-icon fa fa-chevron-up"></i>
+                    </a>
+                </span>
+            </div>
+            <div class="widget-body">
+                <div class="widget-main">
+                    <div>
+                        @Html.DropDownListFor(p => p.Local.Id, Model.Locais," -=- Selecione -=- ", new { @class = "form-control",required = "required" })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-xs-12 col-sm-4">
+        <div class="widget-box">
+            <div class="widget-header">
+                <h4 class="widget-title">Arma</h4>
+
+                <span class="widget-toolbar">
+                    <a href="#" data-action="collapse">
+                        <i class="ace-icon fa fa-chevron-up"></i>
+                    </a>
+                </span>
+            </div>
+            <div class="widget-body">
+                <div class="widget-main">
+                    <div>
+                        @Html.DropDownListFor(p => p.Arma.Id, Model.Armas," -=- Selecione -=- ", new { @class = "form-control",required = "required" })
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br />
+
+<div class="text-center">
+    <button class="btn btn-info" type="button" id="btnEnviar">
+        <i class="ace-icon fa fa-check bigger-110"></i>
+        Enviar Teoria
+    </button>
+</div>
+
+
+@section JS
+    {
+    <script src="~/assets/js/custom/enums/enumTestemunha.js"></script>
+    <script src="~/assets/js/custom/requisicao/requisicao.js"></script>
+    <script src="~/assets/js/custom/detetive/index.js"></script>
+
+    }
+
+

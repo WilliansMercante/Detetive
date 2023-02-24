@@ -1,0 +1,15 @@
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\bin\Debug\net7.0\ProjetoDetetive.Infra.deps.json
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\bin\Debug\net7.0\ProjetoDetetive.Infra.dll
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\bin\Debug\net7.0\ProjetoDetetive.Infra.pdb
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\bin\Debug\net7.0\ProjetoDetetive.Dominio.dll
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\bin\Debug\net7.0\ProjetoDetetive.Dominio.pdb
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\ProjetoDetetive.Infra.csproj.AssemblyReference.cache
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\ProjetoDetetive.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\ProjetoDetetive.Infra.AssemblyInfoInputs.cache
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\ProjetoDetetive.Infra.AssemblyInfo.cs
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\ProjetoDetetive.Infra.csproj.CoreCompileInputs.cache
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\ProjetoDetetive.Infra.csproj.CopyComplete
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\ProjetoDetetive.Infra.dll
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\refint\ProjetoDetetive.Infra.dll
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\ProjetoDetetive.Infra.pdb
+D:\TestesCSharp\ProjetoDetetive.Ui.Web\ProjetoDetetive.Infra\obj\Debug\net7.0\ref\ProjetoDetetive.Infra.dll
