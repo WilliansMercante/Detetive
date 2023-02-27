@@ -28,8 +28,24 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/TestesCSharp/ProjetoDetetive.Ui.Web/ProjetoDetetive.Ui.Web/Views/Shared/_Alerta.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbGVydGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TestesCSharp/ProjetoDetetive.Ui.Web/ProjetoDetetive.Ui.Web/Views/Shared/_Erro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9FcnJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TestesCSharp/ProjetoDetetive.Ui.Web/ProjetoDetetive.Ui.Web/Views/Shared/_Info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JbmZvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/TestesCSharp/ProjetoDetetive.Ui.Web/ProjetoDetetive.Ui.Web/Views/Shared/_Modal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/TestesCSharp/ProjetoDetetive.Ui.Web/ProjetoDetetive.Ui.Web/Views/Shared/_Sucesso.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdWNlc3NvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/TestesCSharp/ProjetoDetetive.Ui.Web/ProjetoDetetive.Ui.Web/Views/Shared/_Template.cshtml]
